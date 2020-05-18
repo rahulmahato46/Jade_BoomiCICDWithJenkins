@@ -1,6 +1,6 @@
-<payload>
-  <environmentName>ENTER TARGET ENVIRONMENT NAME HERE</environmentName>
-  <packageId>{1}</packageId>
-  <notes>Enter notes about this deployment here.</notes>
-  <listenerStatus />
-</payload>
+{
+   "environmentName": "ENTER TARGET ENVIRONMENT NAME HERE",
+   "packageId": "{1}",
+   "notes": "Enter notes about this deployment here.",
+   "listenerStatus": []
+}

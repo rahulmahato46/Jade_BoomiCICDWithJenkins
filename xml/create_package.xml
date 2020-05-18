@@ -1,0 +1,5 @@
+<bns:PackagedComponent xmlns:bns="http://api.platform.boomi.com/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <bns:componentId></bns:componentId>
+    <bns:packageVersion></bns:packageVersion> 
+    <bns:notes></bns:notes> 
+</bns:PackagedComponent>

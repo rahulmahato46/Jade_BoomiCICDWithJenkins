@@ -1,0 +1,6 @@
+<payload>
+  <environmentName>ENTER TARGET ENVIRONMENT NAME HERE</environmentName>
+  <packageId>{1}</packageId>
+  <notes>Enter notes about this deployment here.</notes>
+  <listenerStatus />
+</payload>

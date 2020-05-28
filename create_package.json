@@ -1,17 +1,17 @@
 [
    {
    "componentId": "2ea39214-f13f-4711-b0a7-bcc86b78b475",
-   "packageVersion": "45.0",
+   "packageVersion": "46.0",
    "notes": "This package creating is a multi component test"
    },
    {
    "componentId": "f42f286e-102b-4459-b4a3-5a011112f393",
-   "packageVersion": "45.0",
+   "packageVersion": "46.0",
    "notes": "This package creating is a multi component test"
    },
    {
    "componentId": "8fab4458-cf66-4a0f-8cf3-24166852bbc5",
-   "packageVersion": "45.0",
+   "packageVersion": "46.0",
    "notes": "This package creating is a multi component test"
    }
 ]

@@ -1,12 +1,12 @@
 [
    {
    "componentId": "55878fc2-7807-451f-851f-822015c14849",
-   "packageVersion": "2.0",
+   "packageVersion": "3.0",
    "notes": "This package creating is a multi component test"
    },
    {
    "componentId": "50eb90e2-85ba-4477-829e-227852694974",
-   "packageVersion": "2.0",
+   "packageVersion": "3.0",
    "notes": "This package creating is a multi component test"
    }
 ]
